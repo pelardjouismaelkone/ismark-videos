@@ -1,0 +1,428 @@
+{
+ "mc-instagram-5528885982796793650": {
+  "ok": true,
+  "zernio_id": "6af0dbf8085076cb5383f66c",
+  "status": "scheduled",
+  "at": "2026-11-08T20:30:52.598Z"
+ },
+ "mc-facebook--1929741153631387182": {
+  "ok": true,
+  "zernio_id": "6af0dc01911173e4939dcaf7",
+  "status": "scheduled",
+  "at": "2026-11-08T20:31:00.431Z"
+ },
+ "mc-instagram-4343380502600501770": {
+  "ok": true,
+  "zernio_id": "6af0dc0f085076cb5383f71b",
+  "status": "scheduled",
+  "at": "2026-11-08T20:31:12.391Z"
+ },
+ "mc-facebook-7355783085642369240": {
+  "ok": true,
+  "zernio_id": "6af0dc12085076cb5383f739",
+  "status": "scheduled",
+  "at": "2026-11-08T20:31:16.091Z"
+ },
+ "mc-instagram--4371267044059691464": {
+  "ok": true,
+  "zernio_id": "6af0dc1693aa6b51950eec01",
+  "status": "scheduled",
+  "at": "2026-11-08T20:31:18.857Z"
+ },
+ "mc-facebook--2985616239907683192": {
+  "ok": true,
+  "zernio_id": "6af0dc18085076cb5383f74d",
+  "status": "scheduled",
+  "at": "2026-11-08T20:31:21.372Z"
+ },
+ "mc-instagram-86171971087322472": {
+  "ok": true,
+  "zernio_id": "6af0dc1b93aa6b51950eec64",
+  "status": "scheduled",
+  "at": "2026-11-08T20:31:23.846Z"
+ },
+ "mc-facebook--914941031563048354": {
+  "ok": true,
+  "zernio_id": "6af0dc1d93aa6b51950eec91",
+  "status": "scheduled",
+  "at": "2026-11-08T20:31:26.751Z"
+ },
+ "mc-instagram--7591964539241935051": {
+  "ok": true,
+  "zernio_id": "6af0dc2093aa6b51950eece5",
+  "status": "scheduled",
+  "at": "2026-11-08T20:31:29.291Z"
+ },
+ "mc-facebook--7611078760879732521": {
+  "ok": true,
+  "zernio_id": "6af0dc23085076cb5383f784",
+  "status": "scheduled",
+  "at": "2026-11-08T20:31:32.113Z"
+ },
+ "mc-instagram--9064671250032475712": {
+  "ok": true,
+  "zernio_id": "6af0dc25085076cb5383f78f",
+  "status": "scheduled",
+  "at": "2026-11-08T20:31:34.638Z"
+ },
+ "mc-facebook-3841621298450809720": {
+  "ok": true,
+  "zernio_id": "6af0dc28085076cb5383f794",
+  "status": "scheduled",
+  "at": "2026-11-08T20:31:37.388Z"
+ },
+ "mc-instagram--5048046405323635524": {
+  "ok": true,
+  "zernio_id": "6af0dc2b93aa6b51950eed51",
+  "status": "scheduled",
+  "at": "2026-11-08T20:31:40.079Z"
+ },
+ "mc-facebook--8488354164882848515": {
+  "ok": true,
+  "zernio_id": "6af0dc2ddd00d3fe4f41b885",
+  "status": "scheduled",
+  "at": "2026-11-08T20:31:42.667Z"
+ },
+ "mc-facebook--4835113878399595615": {
+  "ok": true,
+  "zernio_id": "6af0dc3193aa6b51950eed77",
+  "status": "scheduled",
+  "at": "2026-11-08T20:31:46.891Z"
+ },
+ "mc-instagram--2160094613509683930": {
+  "ok": true,
+  "zernio_id": "6af0dc35085076cb5383f7d0",
+  "status": "scheduled",
+  "at": "2026-11-08T20:31:51.277Z"
+ },
+ "mc-instagram-2057032269870876989": {
+  "ok": true,
+  "zernio_id": "6af0dc39085076cb5383f7e3",
+  "status": "scheduled",
+  "at": "2026-11-08T20:31:53.650Z"
+ },
+ "mc-facebook-622924167885048522": {
+  "ok": true,
+  "zernio_id": "6af0dc3b085076cb5383f7f9",
+  "status": "scheduled",
+  "at": "2026-11-08T20:31:56.301Z"
+ },
+ "mc-instagram-7416883458589739315": {
+  "ok": true,
+  "zernio_id": "6af0dc3e93aa6b51950eedf0",
+  "status": "scheduled",
+  "at": "2026-11-08T20:31:58.649Z"
+ },
+ "mc-facebook--107238567137164122": {
+  "ok": true,
+  "zernio_id": "6af0dc4093aa6b51950eee09",
+  "status": "scheduled",
+  "at": "2026-11-08T20:32:01.093Z"
+ },
+ "mc-instagram--5783429101853064529": {
+  "ok": true,
+  "zernio_id": "6af0dc4393aa6b51950eee22",
+  "status": "scheduled",
+  "at": "2026-11-08T20:32:04.074Z"
+ },
+ "mc-facebook--2329924820780167944": {
+  "ok": true,
+  "zernio_id": "6af0dc46911173e4939dcb90",
+  "status": "scheduled",
+  "at": "2026-11-08T20:32:07.119Z"
+ },
+ "mc-instagram--1201264870082067883": {
+  "ok": true,
+  "zernio_id": "6af0dc4c085076cb5383f82f",
+  "status": "scheduled",
+  "at": "2026-11-08T20:32:16.237Z"
+ },
+ "mc-facebook-4816312260415081346": {
+  "ok": true,
+  "zernio_id": "6af0dc57dd00d3fe4f41b88f",
+  "status": "scheduled",
+  "at": "2026-11-08T20:32:27.267Z"
+ },
+ "mc-instagram--2131833834122293252": {
+  "ok": true,
+  "zernio_id": "6af0dc5e93aa6b51950eeee9",
+  "status": "scheduled",
+  "at": "2026-11-08T20:32:30.885Z"
+ },
+ "mc-facebook--5680319610169966179": {
+  "ok": true,
+  "zernio_id": "6af0dc6176693642ef3cf426",
+  "status": "scheduled",
+  "at": "2026-11-08T20:32:34.124Z"
+ },
+ "mc-instagram--5217630958713615577": {
+  "ok": true,
+  "zernio_id": "6af0dc6493aa6b51950eef09",
+  "status": "scheduled",
+  "at": "2026-11-08T20:32:38.415Z"
+ },
+ "mc-facebook-1641167347749047635": {
+  "ok": true,
+  "zernio_id": "6af0dc6876693642ef3cf447",
+  "status": "scheduled",
+  "at": "2026-11-08T20:32:42.445Z"
+ },
+ "mc-instagram--7712837159736818773": {
+  "ok": false,
+  "error": "POST /posts: 403 {\"error\":\"Account 6af0db1908a601e29342aacd (instagram \\\"ismarkdigital013\\\") is disconnected and cannot be posted to. The platform token expired or was revoked. Please reconnect the account. After reconnecting, refresh your account IDs from GET /v1/accounts.\",\"code\":\"ACCOUNT_DISCONNECTED\"}"
+ },
+ "mc-facebook--5871297366144499482": {
+  "ok": true,
+  "zernio_id": "6af0dc6e76693642ef3cf46d",
+  "status": "scheduled",
+  "at": "2026-11-08T20:32:47.157Z"
+ },
+ "mc-instagram-1427598668391400089": {
+  "ok": false,
+  "error": "POST /posts: 403 {\"error\":\"Account 6af0db1908a601e29342aacd (instagram \\\"ismarkdigital013\\\") is disconnected and cannot be posted to. The platform token expired or was revoked. Please reconnect the account. After reconnecting, refresh your account IDs from GET /v1/accounts.\",\"code\":\"ACCOUNT_DISCONNECTED\"}"
+ },
+ "mc-facebook--4509573208752701171": {
+  "ok": true,
+  "zernio_id": "6af0dc7376693642ef3cf48e",
+  "status": "scheduled",
+  "at": "2026-11-08T20:32:52.470Z"
+ },
+ "mc-instagram-7394547705267438436": {
+  "ok": false,
+  "error": "POST /posts: 403 {\"error\":\"Account 6af0db1908a601e29342aacd (instagram \\\"ismarkdigital013\\\") is disconnected and cannot be posted to. The platform token expired or was revoked. Please reconnect the account. After reconnecting, refresh your account IDs from GET /v1/accounts.\",\"code\":\"ACCOUNT_DISCONNECTED\"}"
+ },
+ "mc-facebook-9216370948788145182": {
+  "ok": true,
+  "zernio_id": "6af0dc7976693642ef3cf4c1",
+  "status": "scheduled",
+  "at": "2026-11-08T20:32:58.923Z"
+ },
+ "mc-instagram-3540065097797748383": {
+  "ok": false,
+  "error": "POST /posts: 403 {\"error\":\"Account 6af0db1908a601e29342aacd (instagram \\\"ismarkdigital013\\\") is disconnected and cannot be posted to. The platform token expired or was revoked. Please reconnect the account. After reconnecting, refresh your account IDs from GET /v1/accounts.\",\"code\":\"ACCOUNT_DISCONNECTED\"}"
+ },
+ "mc-facebook--7338357864668577642": {
+  "ok": true,
+  "zernio_id": "6af0dc7f76693642ef3cf4ee",
+  "status": "scheduled",
+  "at": "2026-11-08T20:33:03.827Z"
+ },
+ "mc-instagram--1568431798307762572": {
+  "ok": false,
+  "error": "POST /posts: 403 {\"error\":\"Account 6af0db1908a601e29342aacd (instagram \\\"ismarkdigital013\\\") is disconnected and cannot be posted to. The platform token expired or was revoked. Please reconnect the account. After reconnecting, refresh your account IDs from GET /v1/accounts.\",\"code\":\"ACCOUNT_DISCONNECTED\"}"
+ },
+ "mc-facebook-5940766273244841136": {
+  "ok": true,
+  "zernio_id": "6af0dc8876693642ef3cf52c",
+  "status": "scheduled",
+  "at": "2026-11-08T20:33:14.907Z"
+ },
+ "mc-instagram--8611624965720946786": {
+  "ok": false,
+  "error": "POST /posts: 403 {\"error\":\"Account 6af0db1908a601e29342aacd (instagram \\\"ismarkdigital013\\\") is disconnected and cannot be posted to. The platform token expired or was revoked. Please reconnect the account. After reconnecting, refresh your account IDs from GET /v1/accounts.\",\"code\":\"ACCOUNT_DISCONNECTED\"}"
+ },
+ "mc-facebook-8727507040100829520": {
+  "ok": true,
+  "zernio_id": "6af0dc8f76693642ef3cf560",
+  "status": "scheduled",
+  "at": "2026-11-08T20:33:20.995Z"
+ },
+ "mc-instagram--723529092358388962": {
+  "ok": false,
+  "error": "POST /posts: 403 {\"error\":\"Account 6af0db1908a601e29342aacd (instagram \\\"ismarkdigital013\\\") is disconnected and cannot be posted to. The platform token expired or was revoked. Please reconnect the account. After reconnecting, refresh your account IDs from GET /v1/accounts.\",\"code\":\"ACCOUNT_DISCONNECTED\"}"
+ },
+ "mc-facebook--4881484449196978858": {
+  "ok": true,
+  "zernio_id": "6af0dc9476693642ef3cf58d",
+  "status": "scheduled",
+  "at": "2026-11-08T20:33:25.587Z"
+ },
+ "mc-instagram-1678843404145477366": {
+  "ok": false,
+  "error": "POST /posts: 403 {\"error\":\"Account 6af0db1908a601e29342aacd (instagram \\\"ismarkdigital013\\\") is disconnected and cannot be posted to. The platform token expired or was revoked. Please reconnect the account. After reconnecting, refresh your account IDs from GET /v1/accounts.\",\"code\":\"ACCOUNT_DISCONNECTED\"}"
+ },
+ "mc-facebook--4919564591551459583": {
+  "ok": true,
+  "zernio_id": "6af0dc9a76693642ef3cf5d2",
+  "status": "scheduled",
+  "at": "2026-11-08T20:33:31.109Z"
+ },
+ "mc-instagram--7477019432813902522": {
+  "ok": false,
+  "error": "POST /posts: 403 {\"error\":\"Account 6af0db1908a601e29342aacd (instagram \\\"ismarkdigital013\\\") is disconnected and cannot be posted to. The platform token expired or was revoked. Please reconnect the account. After reconnecting, refresh your account IDs from GET /v1/accounts.\",\"code\":\"ACCOUNT_DISCONNECTED\"}"
+ },
+ "mc-facebook-5565665704695254813": {
+  "ok": true,
+  "zernio_id": "6af0dc9f76693642ef3cf5fd",
+  "status": "scheduled",
+  "at": "2026-11-08T20:33:36.349Z"
+ },
+ "mc-facebook-1819628650357736681": {
+  "ok": true,
+  "zernio_id": "6af0ddd279c09a7cefcb601d",
+  "status": "scheduled",
+  "at": "2026-11-08T20:38:45.180Z"
+ },
+ "mc-facebook-6382960147794710375": {
+  "ok": true,
+  "zernio_id": "6af0ddd779c09a7cefcb604a",
+  "status": "scheduled",
+  "at": "2026-11-08T20:38:47.679Z"
+ },
+ "mc-facebook--2010202756301763008": {
+  "ok": true,
+  "zernio_id": "6af0ddda79c09a7cefcb6068",
+  "status": "scheduled",
+  "at": "2026-11-08T20:38:50.583Z"
+ },
+ "mc-facebook-7873672748166368845": {
+  "ok": true,
+  "zernio_id": "6af0dddca6a634f70da28a07",
+  "status": "scheduled",
+  "at": "2026-11-08T20:38:53.234Z"
+ },
+ "mc-facebook--2229877316416812258": {
+  "ok": true,
+  "zernio_id": "6af0dddf79c09a7cefcb60c7",
+  "status": "scheduled",
+  "at": "2026-11-08T20:38:55.743Z"
+ },
+ "mc-facebook-6930626865326411261": {
+  "ok": true,
+  "zernio_id": "6af0dde379c09a7cefcb60ee",
+  "status": "scheduled",
+  "at": "2026-11-08T20:39:02.959Z"
+ },
+ "mc-facebook-6655688440363237553": {
+  "ok": true,
+  "zernio_id": "6af0dde979c09a7cefcb611e",
+  "status": "scheduled",
+  "at": "2026-11-08T20:39:06.026Z"
+ },
+ "mc-facebook-7799804081567056467": {
+  "ok": true,
+  "zernio_id": "6af0ddec79c09a7cefcb612f",
+  "status": "scheduled",
+  "at": "2026-11-08T20:39:10.223Z"
+ },
+ "mc-facebook-5338296171532995707": {
+  "ok": true,
+  "zernio_id": "6af0ddf079c09a7cefcb6156",
+  "status": "scheduled",
+  "at": "2026-11-08T20:39:14.238Z"
+ },
+ "mc-facebook-4178656477885386715": {
+  "ok": true,
+  "zernio_id": "6af0ddf479c09a7cefcb6188",
+  "status": "scheduled",
+  "at": "2026-11-08T20:39:17.173Z"
+ },
+ "mc-facebook-335215645367027390": {
+  "ok": true,
+  "zernio_id": "6af0ddf779c09a7cefcb61b4",
+  "status": "scheduled",
+  "at": "2026-11-08T20:39:21.291Z"
+ },
+ "mc-facebook--8477879588181750172": {
+  "ok": true,
+  "zernio_id": "6af0ddfb79c09a7cefcb61f7",
+  "status": "scheduled",
+  "at": "2026-11-08T20:39:24.215Z"
+ },
+ "mc-facebook--6073606731012880710": {
+  "ok": true,
+  "zernio_id": "6af0ddfe79c09a7cefcb6207",
+  "status": "scheduled",
+  "at": "2026-11-08T20:39:26.668Z"
+ },
+ "mc-facebook-7632276102160073883": {
+  "ok": true,
+  "zernio_id": "6af0de0079c09a7cefcb6227",
+  "status": "scheduled",
+  "at": "2026-11-08T20:39:29.358Z"
+ },
+ "mc-facebook-167158831551170258": {
+  "ok": true,
+  "zernio_id": "6af0de0379c09a7cefcb623e",
+  "status": "scheduled",
+  "at": "2026-11-08T20:39:32.512Z"
+ },
+ "mc-facebook--2455659169712553326": {
+  "ok": true,
+  "zernio_id": "6af0de0679c09a7cefcb6277",
+  "status": "scheduled",
+  "at": "2026-11-08T20:39:34.817Z"
+ },
+ "mc-facebook--5802917318642482798": {
+  "ok": true,
+  "zernio_id": "6af0de0979c09a7cefcb6298",
+  "status": "scheduled",
+  "at": "2026-11-08T20:39:37.764Z"
+ },
+ "mc-facebook--4547674406492418825": {
+  "ok": true,
+  "zernio_id": "6af0de0c6014306dc3dbffc8",
+  "status": "scheduled",
+  "at": "2026-11-08T20:39:41.936Z"
+ },
+ "mc-facebook--6877316882901153923": {
+  "ok": true,
+  "zernio_id": "6af0de0fa6a634f70da28a6a",
+  "status": "scheduled",
+  "at": "2026-11-08T20:39:44.646Z"
+ },
+ "mc-facebook--1612640004186618080": {
+  "ok": true,
+  "zernio_id": "6af0de1279c09a7cefcb62ed",
+  "status": "scheduled",
+  "at": "2026-11-08T20:39:47.152Z"
+ },
+ "mc-facebook-5024088293773559511": {
+  "ok": true,
+  "zernio_id": "6af0de15a6a634f70da28a76",
+  "status": "scheduled",
+  "at": "2026-11-08T20:39:50.123Z"
+ },
+ "mc-facebook--8353096076928923441": {
+  "ok": true,
+  "zernio_id": "6af0de1879c09a7cefcb6320",
+  "status": "scheduled",
+  "at": "2026-11-08T20:39:52.730Z"
+ },
+ "mc-facebook--6362780266678238966": {
+  "ok": true,
+  "zernio_id": "6af0de1c6014306dc3dbffdb",
+  "status": "scheduled",
+  "at": "2026-11-08T20:39:58.350Z"
+ },
+ "mc-facebook-4341812580738943619": {
+  "ok": true,
+  "zernio_id": "6af0de2079c09a7cefcb6354",
+  "status": "scheduled",
+  "at": "2026-11-08T20:40:01.941Z"
+ },
+ "mc-facebook-8666887178529950801": {
+  "ok": true,
+  "zernio_id": "6af0de2479c09a7cefcb638d",
+  "status": "scheduled",
+  "at": "2026-11-08T20:40:07.175Z"
+ },
+ "mc-facebook--6638947718351993349": {
+  "ok": true,
+  "zernio_id": "6af0de2979c09a7cefcb63b3",
+  "status": "scheduled",
+  "at": "2026-11-08T20:40:10.043Z"
+ },
+ "mc-facebook-4450369631592270266": {
+  "ok": true,
+  "zernio_id": "6af0de2c79c09a7cefcb63b8",
+  "status": "scheduled",
+  "at": "2026-11-08T20:40:12.745Z"
+ },
+ "mc-facebook--2315003947455854166": {
+  "ok": true,
+  "zernio_id": "6af0de2e6014306dc3dbfff5",
+  "status": "scheduled",
+  "at": "2026-11-08T20:40:15.431Z"
+ }
+}
