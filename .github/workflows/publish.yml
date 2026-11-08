@@ -1,0 +1,32 @@
+name: Publication automatique IG + FB
+on:
+  schedule:
+    - cron: '*/10 * * * *'
+  workflow_dispatch:
+permissions:
+  contents: write
+concurrency:
+  group: publisher
+  cancel-in-progress: false
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+      - name: Publier ce qui est dû
+        env:
+          META_PAGE_TOKEN: ${{ secrets.META_PAGE_TOKEN }}
+          FB_PAGE_ID: ${{ secrets.FB_PAGE_ID }}
+          IG_USER_ID: ${{ secrets.IG_USER_ID }}
+        run: node publisher/publish.mjs
+      - name: Enregistrer le suivi
+        if: always()
+        run: |
+          git config user.name "ismark-publisher"
+          git config user.email "actions@users.noreply.github.com"
+          git add publisher/state.json 2>/dev/null || true
+          git diff --cached --quiet || (git commit -m "Suivi des publications" && git pull --rebase -q && git push)
