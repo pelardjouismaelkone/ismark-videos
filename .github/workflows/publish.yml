@@ -1,7 +1,10 @@
-name: Publication automatique IG + FB
+name: Programmation Zernio (IG + FB)
 on:
+  push:
+    branches: [main]
+    paths: ['publisher/schedule.json']
   schedule:
-    - cron: '*/10 * * * *'
+    - cron: '17 * * * *'
   workflow_dispatch:
 permissions:
   contents: write
@@ -9,24 +12,22 @@ concurrency:
   group: publisher
   cancel-in-progress: false
 jobs:
-  publish:
+  sync:
     runs-on: ubuntu-latest
-    timeout-minutes: 20
+    timeout-minutes: 30
     steps:
       - uses: actions/checkout@v4
       - uses: actions/setup-node@v4
         with:
           node-version: '22'
-      - name: Publier ce qui est dû
+      - name: Envoyer le planning à Zernio
         env:
-          META_PAGE_TOKEN: ${{ secrets.META_PAGE_TOKEN }}
-          FB_PAGE_ID: ${{ secrets.FB_PAGE_ID }}
-          IG_USER_ID: ${{ secrets.IG_USER_ID }}
-        run: node publisher/publish.mjs
+          ZERNIO_API_KEY: ${{ secrets.ZERNIO_API_KEY }}
+        run: node publisher/zernio-sync.mjs
       - name: Enregistrer le suivi
         if: always()
         run: |
           git config user.name "ismark-publisher"
           git config user.email "actions@users.noreply.github.com"
-          git add publisher/state.json 2>/dev/null || true
+          git add publisher/state.json
           git diff --cached --quiet || (git commit -m "Suivi des publications" && git pull --rebase -q && git push)
