@@ -256,5 +256,173 @@
   "zernio_id": "6af0dc9f76693642ef3cf5fd",
   "status": "scheduled",
   "at": "2026-11-08T20:33:36.349Z"
+ },
+ "mc-facebook-1819628650357736681": {
+  "ok": true,
+  "zernio_id": "6af0ddd279c09a7cefcb601d",
+  "status": "scheduled",
+  "at": "2026-11-08T20:38:45.180Z"
+ },
+ "mc-facebook-6382960147794710375": {
+  "ok": true,
+  "zernio_id": "6af0ddd779c09a7cefcb604a",
+  "status": "scheduled",
+  "at": "2026-11-08T20:38:47.679Z"
+ },
+ "mc-facebook--2010202756301763008": {
+  "ok": true,
+  "zernio_id": "6af0ddda79c09a7cefcb6068",
+  "status": "scheduled",
+  "at": "2026-11-08T20:38:50.583Z"
+ },
+ "mc-facebook-7873672748166368845": {
+  "ok": true,
+  "zernio_id": "6af0dddca6a634f70da28a07",
+  "status": "scheduled",
+  "at": "2026-11-08T20:38:53.234Z"
+ },
+ "mc-facebook--2229877316416812258": {
+  "ok": true,
+  "zernio_id": "6af0dddf79c09a7cefcb60c7",
+  "status": "scheduled",
+  "at": "2026-11-08T20:38:55.743Z"
+ },
+ "mc-facebook-6930626865326411261": {
+  "ok": true,
+  "zernio_id": "6af0dde379c09a7cefcb60ee",
+  "status": "scheduled",
+  "at": "2026-11-08T20:39:02.959Z"
+ },
+ "mc-facebook-6655688440363237553": {
+  "ok": true,
+  "zernio_id": "6af0dde979c09a7cefcb611e",
+  "status": "scheduled",
+  "at": "2026-11-08T20:39:06.026Z"
+ },
+ "mc-facebook-7799804081567056467": {
+  "ok": true,
+  "zernio_id": "6af0ddec79c09a7cefcb612f",
+  "status": "scheduled",
+  "at": "2026-11-08T20:39:10.223Z"
+ },
+ "mc-facebook-5338296171532995707": {
+  "ok": true,
+  "zernio_id": "6af0ddf079c09a7cefcb6156",
+  "status": "scheduled",
+  "at": "2026-11-08T20:39:14.238Z"
+ },
+ "mc-facebook-4178656477885386715": {
+  "ok": true,
+  "zernio_id": "6af0ddf479c09a7cefcb6188",
+  "status": "scheduled",
+  "at": "2026-11-08T20:39:17.173Z"
+ },
+ "mc-facebook-335215645367027390": {
+  "ok": true,
+  "zernio_id": "6af0ddf779c09a7cefcb61b4",
+  "status": "scheduled",
+  "at": "2026-11-08T20:39:21.291Z"
+ },
+ "mc-facebook--8477879588181750172": {
+  "ok": true,
+  "zernio_id": "6af0ddfb79c09a7cefcb61f7",
+  "status": "scheduled",
+  "at": "2026-11-08T20:39:24.215Z"
+ },
+ "mc-facebook--6073606731012880710": {
+  "ok": true,
+  "zernio_id": "6af0ddfe79c09a7cefcb6207",
+  "status": "scheduled",
+  "at": "2026-11-08T20:39:26.668Z"
+ },
+ "mc-facebook-7632276102160073883": {
+  "ok": true,
+  "zernio_id": "6af0de0079c09a7cefcb6227",
+  "status": "scheduled",
+  "at": "2026-11-08T20:39:29.358Z"
+ },
+ "mc-facebook-167158831551170258": {
+  "ok": true,
+  "zernio_id": "6af0de0379c09a7cefcb623e",
+  "status": "scheduled",
+  "at": "2026-11-08T20:39:32.512Z"
+ },
+ "mc-facebook--2455659169712553326": {
+  "ok": true,
+  "zernio_id": "6af0de0679c09a7cefcb6277",
+  "status": "scheduled",
+  "at": "2026-11-08T20:39:34.817Z"
+ },
+ "mc-facebook--5802917318642482798": {
+  "ok": true,
+  "zernio_id": "6af0de0979c09a7cefcb6298",
+  "status": "scheduled",
+  "at": "2026-11-08T20:39:37.764Z"
+ },
+ "mc-facebook--4547674406492418825": {
+  "ok": true,
+  "zernio_id": "6af0de0c6014306dc3dbffc8",
+  "status": "scheduled",
+  "at": "2026-11-08T20:39:41.936Z"
+ },
+ "mc-facebook--6877316882901153923": {
+  "ok": true,
+  "zernio_id": "6af0de0fa6a634f70da28a6a",
+  "status": "scheduled",
+  "at": "2026-11-08T20:39:44.646Z"
+ },
+ "mc-facebook--1612640004186618080": {
+  "ok": true,
+  "zernio_id": "6af0de1279c09a7cefcb62ed",
+  "status": "scheduled",
+  "at": "2026-11-08T20:39:47.152Z"
+ },
+ "mc-facebook-5024088293773559511": {
+  "ok": true,
+  "zernio_id": "6af0de15a6a634f70da28a76",
+  "status": "scheduled",
+  "at": "2026-11-08T20:39:50.123Z"
+ },
+ "mc-facebook--8353096076928923441": {
+  "ok": true,
+  "zernio_id": "6af0de1879c09a7cefcb6320",
+  "status": "scheduled",
+  "at": "2026-11-08T20:39:52.730Z"
+ },
+ "mc-facebook--6362780266678238966": {
+  "ok": true,
+  "zernio_id": "6af0de1c6014306dc3dbffdb",
+  "status": "scheduled",
+  "at": "2026-11-08T20:39:58.350Z"
+ },
+ "mc-facebook-4341812580738943619": {
+  "ok": true,
+  "zernio_id": "6af0de2079c09a7cefcb6354",
+  "status": "scheduled",
+  "at": "2026-11-08T20:40:01.941Z"
+ },
+ "mc-facebook-8666887178529950801": {
+  "ok": true,
+  "zernio_id": "6af0de2479c09a7cefcb638d",
+  "status": "scheduled",
+  "at": "2026-11-08T20:40:07.175Z"
+ },
+ "mc-facebook--6638947718351993349": {
+  "ok": true,
+  "zernio_id": "6af0de2979c09a7cefcb63b3",
+  "status": "scheduled",
+  "at": "2026-11-08T20:40:10.043Z"
+ },
+ "mc-facebook-4450369631592270266": {
+  "ok": true,
+  "zernio_id": "6af0de2c79c09a7cefcb63b8",
+  "status": "scheduled",
+  "at": "2026-11-08T20:40:12.745Z"
+ },
+ "mc-facebook--2315003947455854166": {
+  "ok": true,
+  "zernio_id": "6af0de2e6014306dc3dbfff5",
+  "status": "scheduled",
+  "at": "2026-11-08T20:40:15.431Z"
  }
 }
