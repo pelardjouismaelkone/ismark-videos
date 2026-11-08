@@ -6,7 +6,7 @@ import path from 'node:path';
 import { execFileSync } from 'node:child_process';
 
 const PUB = path.resolve(path.dirname(new URL(import.meta.url).pathname), '..');
-const RAW = 'https://raw.githubusercontent.com/pelardjouismaelkone/ismark-videos/main/publisher/media';
+const RAW = 'https://raw.githubusercontent.com/pelardjouismaelkone/ismark-videos/claude/project-thread-c1mwkg/publisher/media';
 const [, , input, , fromArg] = process.argv;
 const from = new Date(fromArg || Date.now());
 const posts = JSON.parse(fs.readFileSync(input, 'utf8'));
